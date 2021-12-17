@@ -1,0 +1,16 @@
+<!DOCTYPE html PUBLIC "-//IETF//DTD HTML 2.0//EN"><html><head>
+<title>300 Multiple Choices</title>
+</head><body>
+<h1>Multiple Choices</h1>
+The document name you requested (<code>/assets/images/bg/bg-image-17.jpg</code>) could not be found on this server.
+However, we found documents with names similar to the one you requested.<p>Available documents:
+</p><ul>
+<li><a href="/assets/images/bg/bg-image-1.jpg">/assets/images/bg/bg-image-1.jpg</a> (extra character)
+</li><li><a href="/assets/images/bg/bg-image-7.jpg">/assets/images/bg/bg-image-7.jpg</a> (extra character)
+</li><li><a href="/assets/images/bg/bg-image-10.jpg">/assets/images/bg/bg-image-10.jpg</a> (mistyped character)
+</li><li><a href="/assets/images/bg/bg-image-11.jpg">/assets/images/bg/bg-image-11.jpg</a> (mistyped character)
+</li><li><a href="/assets/images/bg/bg-image-12.jpg">/assets/images/bg/bg-image-12.jpg</a> (mistyped character)
+</li><li><a href="/assets/images/bg/bg-image-13.jpg">/assets/images/bg/bg-image-13.jpg</a> (mistyped character)
+</li></ul>
+
+</body></html>
